@@ -15,3 +15,8 @@ Quick start
 1. `mvn package`
 2. `java -jar target/example-spring-boot-mvc-1.0-SNAPSHOT.war`
 3. Point your browser to [http://localhost:8080/user_list.html](http://localhost:8080/user_list.html)
+
+<a href="https://scan.coverity.com/projects/anjaneyabt-spring-mvc-test">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/9460/badge.svg"/>
+</a>
